@@ -1,0 +1,32 @@
+# Project 3 - SQL Analysis
+
+## Objective
+
+Perform SQL-based analysis on a sales dataset to extract business insights.
+
+## Tools Used
+
+* MySQL Workbench
+* SQL
+
+## Analysis Performed
+
+* Data Retrieval
+* Filtering
+* Sorting
+* Aggregate Functions
+* GROUP BY
+* HAVING
+* Revenue Analysis
+
+## Key Insights
+
+* Identified top-performing products.
+* Analyzed revenue by referral source.
+* Evaluated payment method performance.
+* Compared order statuses and revenue contributions.
+
+## Files Included
+
+* Project3_SQL_Queries.sql
+* Query Output Screenshots
