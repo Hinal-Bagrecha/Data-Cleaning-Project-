@@ -1,25 +1,14 @@
-# Data Cleaning and Preparation
+# Project 2 - Exploratory Data Analysis
 
 ## Objective
-Clean and validate the provided dataset by identifying missing values, duplicates, formatting issues, and data inconsistencies.
-
-## Steps Performed
-- Checked for missing values
-- Verified duplicate records
-- Validated data formats
-- Reviewed categorical columns for consistency
-- Checked numeric columns for invalid values
-- Verified TotalPrice calculations
+Perform EDA to identify trends, distributions, and outliers.
 
 ## Findings
-- CouponCode contained blank values which were considered valid.
-- No duplicate rows were found.
-- Data formats were consistent.
-- No invalid numeric values were identified.
-- Dataset was suitable for further analysis.
+- Top Product: Chair
+- Top Referral Source: Instagram
+- Mean TotalPrice: 1053.97
+- Median TotalPrice: 823.62
 
-## Tools Used
-- Google Sheets
-- GitHub
-
-  THANK YOU!
+## Files
+- EDA_Report.docx
+- EDA_Summary.xlsx
